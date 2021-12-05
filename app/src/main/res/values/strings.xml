@@ -1,11 +1,11 @@
 <resources>
-    <string name="app_name">Start_Andoid</string>
+    <string name="app_name">Start_Android</string>
     <string name="hello_text">Hello Android!</string>
     <string name="button_center">PUSH</string>
     <string name="button_left">RANDOM</string>
     <string name="button_right">NEXT</string>
      <string name="countView"></string>
     <string name="textlabel"></string>
-    <!--<string name="countview">0</string>-->
+
 
 </resources>

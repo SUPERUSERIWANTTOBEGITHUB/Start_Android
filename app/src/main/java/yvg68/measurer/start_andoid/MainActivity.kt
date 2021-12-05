@@ -25,10 +25,7 @@ class MainActivity : AppCompatActivity() {
         counView.text = count.toString()
         quantity = findViewById(R.id.textLabel)
         quantity.text ="QUANTITY:"
-
-
-
-
-
     }
+
+
 }
