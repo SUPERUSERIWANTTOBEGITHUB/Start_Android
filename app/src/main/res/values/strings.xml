@@ -1,7 +1,8 @@
 <resources>
     <string name="app_name">Start_Andoid</string>
-    <string name="hello_text">Hello Android!</string>
-    <string name="button_centr">PUSH</string>
+    <string name="hello_text">Hello a new User
+        !</string>
+    <string name="button_center">PUSH</string>
     <string name="button_left">RANDOM</string>
     <string name="button_right">NEXT</string>
 </resources>
